@@ -24,6 +24,7 @@ Here the materials :
 - 7 Segment LCD Display x2
 - 74HC595 8bit shift register x2
 - Buzzer x1
+- Breadboard x3
 
 ---
 
