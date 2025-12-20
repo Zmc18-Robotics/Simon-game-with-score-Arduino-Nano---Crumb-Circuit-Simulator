@@ -25,6 +25,7 @@ Here the materials :
 - 74HC595 8bit shift register x2
 - Buzzer x1
 - Breadboard x3
+- Power Supply x1
 
 ---
 
